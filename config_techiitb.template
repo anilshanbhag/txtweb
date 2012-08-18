@@ -1,0 +1,7 @@
+<?php
+
+$TXTWEB_API_KEY = "Service App Key";
+$GOOGLE_API_KEY = "Project Api Key";
+
+?>
+

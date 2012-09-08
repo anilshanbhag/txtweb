@@ -3,7 +3,7 @@ TxtWeb App Directory
 
 This repository hosts txtweb app source codes.
 
-@tech_iitb
+[@tech_iitb](http://developer.txtweb.com/user/apps/techiitb)
 ----------
 
 @tech_iitb is a google calender interface.Every time a person pings it, it returns the current day events as seen in the calender. 
@@ -12,7 +12,7 @@ This app was developed for use of freshers at IITB who do not have access to net
 Usage:
 Rename the config_techiitb.template to config_techiitb.php. Add a Google API key (you can get it from API Console) and TxtWeb app key.
 
-@techathon
+[@techathon](http://developer.txtweb.com/user/apps/techathon)
 ----------
 
 @techathon is a basic quiz app for conducting fun quizzes. 
